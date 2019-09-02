@@ -595,7 +595,7 @@
   },
   {
     "value": "Central Europe Standard Time",
-    "abbr": "CEDT",
+    "abbr": "CEST",
     "offset": 2,
     "isdst": true,
     "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
